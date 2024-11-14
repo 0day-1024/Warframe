@@ -1,0 +1,47 @@
+【已装备】
+【部件】
+【护盾阵列】
+ZETKI 护盾阵列 MK III*
+西格玛护盾阵列
+
+【引擎】
+WIDAR 引擎 MK III*
+
+【装甲】
+LAVAN 装甲 MK III*
+
+【反应堆】
+ZETKI 反应堆 MK III*
+
+
+【军备】
+ZETKI 毒液穿甲炮 MK III*
+ZETKI 天启炮台 MK III*
+第谷追踪弹 MK III*
+
+
+
+【未装备】
+【部件】
+【护盾阵列】
+西格玛护盾阵列
+ZETKI 护盾阵列 MK III
+
+【引擎】
+西格玛引擎
+WIDAR 引擎 MK III
+
+【装甲】
+西格玛装甲
+LAVAN 装甲 MK III
+
+【反应堆】
+西格玛反应堆
+ZETKI 反应堆 MK III
+
+
+【军备】
+ZETKI 毒液穿甲炮 MK III
+ZETKI 天启炮台 MK III
+第谷追踪弹 MK III
+

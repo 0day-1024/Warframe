@@ -1,0 +1,27 @@
+组队篇
+JJC -- 赛德娜竞技场（刷内融核心）
+
+
+
+交易篇
+PC -- Price check（价格查询）
+
+PM -- Private Message（私信）
+
+WTB -- Want to buy（想买）
+
+WTS -- Want to sell（想卖）
+
+WTT(F) -- Want to trade (for)（想要交易(为)...）
+
+
+
+指挥官篇
+m1 -- M精1技能
+
+177、746、777 -- 增幅器部件
+
+
+
+装备栏篇
+井盖 -- 各种团队补给（团队能量补给、团队血量补给、团队护盾补给）

@@ -1,0 +1,15 @@
+Set  -->  套装
+Blueprint  -->  蓝图
+Chassis Blueprint  -->  机体蓝图
+Neuroptics Blueprint -->  头部神经光元蓝图
+Systems Blueprint  -->  系统蓝图
+
+
+黑咖喱  -->  Excalibur Umbra
+
+悟空p  -->  Wukong Prime
+
+电男p  -->  Volt Prime
+
+毒妈p  -->  Saryn Prime
+
